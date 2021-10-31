@@ -1,0 +1,11 @@
+# Future Direction
+
+When we start to think about Apron Network, we found that not only the Web 3.0 world needs Apron Network, also the traditional IT infrastructure services need decentralized infrastructure network to protect the rights and freedom of service providers and service users.
+
+For typical infrastructure services, most of them are deployed on cloud services. AWS, Azure and AliCloud, the world's leading cloud service providers, all have their own service markets. In these markets, service developers implement their own ideas and package these ideas into services and put them on the service market. These services are limited by the service market provided by cloud service providers. The services developed by developers must be subject to the audit and supervision of cloud service providers, and they may lose the opportunity to provide services to users or even lose the remuneration for providing services due to the adjustment of service market policies of cloud service providers at any time.
+
+After the construction of Apron Network, infrastructure operators can provide their own infrastructure services to the public on Apron Network, without having to invest a lot of maintenance costs to provide these services, and do not need to invest their own energy to do the corresponding promotion and operation. It enables application developers to quickly discover and use various infrastructure services from the decentralized network on Apron Network without having to invest a lot of energy and money to find infrastructure service solutions. It enables application users to use the application based on decentralized infrastructure services without worrying about the failure of the infrastructure services used. Making all basic service providers, application developers and basic service users cooperate safely and freely!
+
+For an instance, anyone can provide VPN services, face recognition, network storage, instant messaging and so on through Apron Network without being restricted and regulated by the centralized business platform.
+
+In the era of Web 3.0, the decentralized Apron Network, which belongs to the community, will replace the centralized infrastructure service platform controlled by commercial companies to provide infrastructure services for developers, and give freedom back to everyone.

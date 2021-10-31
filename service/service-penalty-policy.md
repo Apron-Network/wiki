@@ -1,0 +1,3 @@
+# Service Penalty Policy
+
+The inspector inspects the services in the network. When the infrastructure service provider or the infrastructure service user has malicious behavior, the inspector will automatically request the punishment measures to DAO, and the members of the DAO will judge the behavior and implement the punishment measures. If the penalty arbitration initiated by the inspector is determined to be tenable by the decentralized arbitration court, the inspector will be able to obtain a part of the fine as a reward. When the infrastructure service provider finds that there are users using the service maliciously, the DAO can be asked to judge the behavior. When service users find that there is a problem with the service, they can also appeal to DAO.
